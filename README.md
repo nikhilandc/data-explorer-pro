@@ -12,6 +12,8 @@
 ---
 
 ## 🔗 Live Demo
+> 🔴 Live: [https://data-explorer-pro.vercel.app](https://data-explorer-pro-rho.vercel.app/)
+> 🟢 Source Code: https://github.com/your-username/data-explorer-pro
 
 > Deploy in under 2 minutes — see the [Deployment](#-deployment) section below.
 
